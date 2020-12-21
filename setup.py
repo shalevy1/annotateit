@@ -11,7 +11,7 @@ setup(
         'Flask-Mail==0.7.2',
         'Flask-SQLAlchemy==0.16',
         'Flask-WTF==0.8',
-        'SQLAlchemy==0.7.8',
+        'SQLAlchemy==1.3.0',
         'sqlalchemy-migrate==0.7.2',
         'itsdangerous==0.17',
         'decorator==3.3.3',
